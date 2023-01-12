@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "version": "v1.1",
-  "zipUrl": "https://github.com/CN-Scars/A-Magisk-module-that-can-change-model-to-Google-Pixel-7-Pro/releases/download/v1.1/Google.Pixel.7.Pro.V1.1.by.CN-Scars.zip",
-  "changelog": "Add check update function!"
+  "versionCode": 3,
+  "version": "v1.2",
+  "zipUrl": "https://github.com/CN-Scars/A-Magisk-module-that-can-change-model-to-Google-Pixel-7-Pro/releases/download/v1.2/Google.Pixel.7.Pro.V1.2.by.CN-Scars.zip",
+  "changelog": "1. 修复了一些Bug\n2. 更改了模块ID\n\n1. Bug fixed\n2. Module ID changed"
 }
